@@ -1,0 +1,18 @@
+ USE THE DIVISION OPERATOR TO DIVIDE
+Use the division operator (/) to divide two numbers and return their quotient as a float.
+
+quotient = 5 / 2
+Exact division
+
+print(quotient)
+OUTPUT
+2.5
+USE THE INTEGER DIVISION OPERATOR TO DIVIDE
+Use the integer division operator (//) to divide two numbers and round their quotient down to nearest integer.
+
+quotient = 5 // 2
+Integer division
+
+print(quotient)
+OUTPUT
+2
